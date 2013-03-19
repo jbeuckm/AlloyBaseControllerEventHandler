@@ -1,0 +1,5 @@
+<Alloy>
+  <Window>
+    <Button onClick="exports.doClick">try me</Button>
+  </Window>
+</Alloy>

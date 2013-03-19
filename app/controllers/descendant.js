@@ -1,0 +1,4 @@
+
+exports.baseController = 'base';
+
+
